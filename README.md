@@ -1,5 +1,10 @@
 # hangman
 
+![alt text][logo]
+
+[logo]: ./Hangman.png "Logo Title Text 2"
+
+
 USER STORIES:
 user should be able to guess a letter
 if the letter is correct, it is displayed on the screen
